@@ -1,0 +1,7 @@
+Hepsiburada Scraping Summary
+===========================
+Keyword: laptop
+Products: 8
+Scraped: 2025-08-27 03:31:03.026155
+Brands: 2
+Price Range: 12,499 - 35,999 TRY
